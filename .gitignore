@@ -1,5 +1,6 @@
 *.pyc
 
 .packages
+migrations
 
 db.sqlite3
