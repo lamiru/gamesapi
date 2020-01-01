@@ -1,6 +1,6 @@
 *.pyc
 
-.packages
+.venv
 migrations
 
 .coverage
